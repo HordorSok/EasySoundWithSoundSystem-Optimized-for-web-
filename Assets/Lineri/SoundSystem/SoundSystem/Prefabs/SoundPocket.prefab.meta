@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd226579b7d3d0748b9c2161182c02cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272590
+  packageName: Eazy Sound System
+  packageVersion: 0.2.2.3
+  assetPath: Assets/Lineri/SoundSystem/SoundSystem/Prefabs/SoundPocket.prefab
+  uploadId: 653036

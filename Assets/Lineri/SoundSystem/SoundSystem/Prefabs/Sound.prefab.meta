@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e16e4191e1a479745a78175a259da39b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272590
+  packageName: Eazy Sound System
+  packageVersion: 0.2.2.3
+  assetPath: Assets/Lineri/SoundSystem/SoundSystem/Prefabs/Sound.prefab
+  uploadId: 653036

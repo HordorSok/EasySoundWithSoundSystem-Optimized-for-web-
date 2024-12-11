@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b84d0858374119f4f856f194340fde75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272590
+  packageName: Eazy Sound System
+  packageVersion: 0.2.2.3
+  assetPath: Assets/Lineri/SoundSystem/SoundSystem/Scripts/SoundPocket.cs
+  uploadId: 653036
